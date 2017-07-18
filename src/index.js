@@ -6,12 +6,7 @@ import './index.css';
 import * as firebase from "firebase";
 
 var config = {
-    apiKey: "AIzaSyD-nmvs60GTV51xt3aEiOXpqL8SxONhw_8",
-    authDomain: "parking-booking-system-16683.firebaseapp.com",
-    databaseURL: "https://parking-booking-system-16683.firebaseio.com",
-    projectId: "parking-booking-system-16683",
-    storageBucket: "",
-    messagingSenderId: "1045815455185"
+    // firebase config here
 };
 firebase.initializeApp(config);
 
